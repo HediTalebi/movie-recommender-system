@@ -5,6 +5,7 @@ With the vast amount of movies available today, it can be overwhelming for relat
 
 This repository presents a movie recommender system that combines the power of clustering algorithms and the versatility of the Gradio library to create an efficient and intuitive platform for users to explore and discover movies.
 
+Explore our project and see how it works by visiting our project's Hugging Face Space at this link: https://huggingface.co/spaces/AbolfazlFekri/AbolfazlFekriHediyehTalebi_MLFinal_SBU_V1.2 ." 
 ## Dataset
 
 The dataset used for this task focuses explicitly on the "movies_metadata" subset of the larger dataset. This subset contains a vast collection of information on 45,000 movies, encompassing various essential details such as budget, revenue, release dates, languages, production countries, and more. The Movies Dataset, obtained from The Movie Database (TMDb) API, is a comprehensive resource for movie-related data, allowing researchers, analysts, and developers to understand movie characteristics and trends better.
